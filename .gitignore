@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+
+
+# Data files
+*.csv
+*.sqlite
+*.zip
