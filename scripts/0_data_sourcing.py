@@ -1,4 +1,5 @@
 #create a .csv file with the data scraped from the website
+
 #libraries
 import requests  # for making HTTP requests to web pages
 from bs4 import BeautifulSoup  # for parsing HTML content
