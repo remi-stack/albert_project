@@ -61,5 +61,5 @@ def csv_saving(data, filename):
 
 if __name__ == '__main__':
     quotes_data = fetch_quotes(base_url)
-    df_sorted = csv_saving(quotes_data, 'data/quotes.csv')
+    df_sorted = csv_saving(quotes_data, 'data/quotes_script.csv')
     print(df_sorted) # Display the sorted DataFrame
