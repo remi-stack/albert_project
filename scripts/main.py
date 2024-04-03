@@ -1,3 +1,5 @@
+#main script is used to run the whole project and get the final output
+#It is used to call the functions from other scripts and run the project
 from scripts.datasourcing import fetch_quotes, csv_saving
 
 def main():
