@@ -1,7 +1,5 @@
-* Creating a clear and informative README file is crucial for any project, as it often serves as the first point of reference for anyone who encounters your project repository.
-* Below is a template to start with: 
-
 # Project Title
+League of Legend
 
 ## Overview
 Briefly describe what the project does and its purpose. Include any unique features or problems it solves.
@@ -18,3 +16,8 @@ Provide step-by-step instructions on how to get a development environment runnin
 git clone https://github.com/username/projectname.git
 cd projectname
 pip install -r requirements.txt
+
+## Dataset 
+Proviennent du site principal op.gg : "https://www.op.gg"
+Voici le lien des datasets : https://drive.google.com/drive/folders/1Y5bTnNGTyBFWbEuXdc0BFq9fFeXZresH?usp=share_link
+Pour l'instant, un seul dataset sur les caractéristiques des champions a été téléchargé. Nous souhaitons par la suite scrapper des données sur l'historique des parties, mes aussi les points forts et les points faibles des champions. 
