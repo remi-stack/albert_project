@@ -21,3 +21,8 @@ pip install -r requirements.txt
 Proviennent du site principal op.gg : "https://www.op.gg"
 Voici le lien des datasets : https://drive.google.com/drive/folders/1Y5bTnNGTyBFWbEuXdc0BFq9fFeXZresH?usp=share_link
 Pour l'instant, un seul dataset sur les caractéristiques des champions a été téléchargé. Nous souhaitons par la suite scrapper des données sur l'historique des parties, mes aussi les points forts et les points faibles des champions. 
+
+1. Data Content (8 points): Describe the type of data used, the methods employed, the sources ofthe data, and the purpose for which it was used.
+
+2. Data Quality/Cleaning/
+Preparation (6 points): Explain the processes you undertook. Detail themethods you selected and the reasons behind these choices
