@@ -20,7 +20,6 @@ pip install -r requirements.txt
 ## Dataset 
 Proviennent du site principal op.gg : "https://www.op.gg"
 Voici le lien des datasets : https://drive.google.com/drive/folders/1Y5bTnNGTyBFWbEuXdc0BFq9fFeXZresH?usp=share_link
-Pour l'instant, un seul dataset sur les caractéristiques des champions a été téléchargé. Nous souhaitons par la suite scrapper des données sur l'historique des parties, mes aussi les points forts et les points faibles des champions. 
 
 
 #Présentation du jeu
